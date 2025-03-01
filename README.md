@@ -45,12 +45,12 @@ The following tools and resources are used in this project:
 
 ---
 
-## 🚀 Project Objectives
+## 🚀 Project Requirements
 
 ### Data Warehouse Development (Data Engineering)
 
 #### Objective
-To develop a data warehouse using SQL Server to support analytical reporting.
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
 -   **Data Sources**: Data ingestion from ERP and CRM systems (CSV files).
@@ -65,10 +65,10 @@ To develop a data warehouse using SQL Server to support analytical reporting.
 
 #### Objective
 To develop SQL-based analytics to provide insights into:
--   Customer behavior
--   Product performance
--   Sales trends
-
+-   **Customer behavior**
+-   **Product performance**
+-   **Sales trends**
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 For further details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
@@ -77,7 +77,7 @@ data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-├── documents/                          # Project documentation and architecture details
+├── docs/                               # Project documentation and architecture details
 │   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
 │   ├── data_architecture.png           # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
