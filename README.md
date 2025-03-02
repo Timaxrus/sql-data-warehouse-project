@@ -101,3 +101,5 @@ data-warehouse-project/
 ## 🛡️ License
 
 This project uses the [MIT License](LICENSE). You can use, change, and share it.
+
+### Special appreciation for Baraa Khatib Salkini (https://github.com/DataWithBaraa) 🙌
