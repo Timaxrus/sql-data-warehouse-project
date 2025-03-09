@@ -69,7 +69,7 @@ To develop SQL-based analytics to provide insights into:
 -   **Product performance**
 -   **Sales trends**
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-For further details, refer to [docs/requirements.md](docs/requirements.md).
+
 
 ## 📂 Repository Structure
 ```
